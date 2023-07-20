@@ -1,0 +1,48 @@
+export default [
+  {
+    id: '1',
+    numEstanque: 1,
+    oxigeno: 25,
+    salinidad: 3,
+    biomasa: 10,
+    alimento: 100,
+    alimentoAcumulado: 300,
+  },
+  {
+    id: '2',
+    numEstanque: 2,
+    oxigeno: 25,
+    salinidad: 3,
+    biomasa: 10,
+    alimento: 100,
+    alimentoAcumulado: 300,
+  },
+  {
+    id: '3',
+    numEstanque: 3,
+    oxigeno: 25,
+    salinidad: 3,
+    biomasa: 10,
+    alimento: 100,
+    alimentoAcumulado: 300,
+  },
+  {
+    id: '4',
+    numEstanque: 4,
+    oxigeno: 25,
+    salinidad: 3,
+    biomasa: 10,
+    alimento: 100,
+    alimentoAcumulado: 300,
+  },
+  {
+    id: '5',
+    numEstanque: 5,
+    oxigeno: 25,
+    salinidad: 3,
+    biomasa: 10,
+    alimento: 100,
+    alimentoAcumulado: 300,
+  },
+
+];
